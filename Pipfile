@@ -5,9 +5,9 @@ name = "pypi"
 
 [packages]
 django = "*"
-djangorestframework = "*"
 pygments = "*"
 django-extensions = "*"
+djangorestframework = "*"
 
 [dev-packages]
 ipython = "*"
