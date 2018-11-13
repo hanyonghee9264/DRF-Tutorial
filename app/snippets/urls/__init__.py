@@ -7,5 +7,5 @@ urlpatterns = [
     path('drf-fbv/', include(drf_fbv)),
     path('drf-cbv/', include(drf_cbv)),
     path('drf-mixin/', include(drf_mixin)),
-    path('drf-generic/', include(drf_generic_cbv)),
+    path('drf-generic-cbv/', include(drf_generic_cbv)),
 ]
