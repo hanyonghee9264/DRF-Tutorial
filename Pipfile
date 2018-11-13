@@ -8,6 +8,8 @@ django = "*"
 pygments = "*"
 django-extensions = "*"
 djangorestframework = "*"
+djangorestframework-yaml = "*"
+djangorestframework-xml = "*"
 
 [dev-packages]
 ipython = "*"
